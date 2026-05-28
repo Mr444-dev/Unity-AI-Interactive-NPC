@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd5a34bd56006ae4c9b1872128cf7354, type: 3}
+  m_Name: Demo_Personality
+  m_EditorClassIdentifier: Assembly-CSharp::InteractiveNPC.Personality.Data.NPCPersonalityData
+  _displayName: NPC
+  _personalityId: 
+  _bigFiveTraits:
+    _openness: 0.5
+    _conscientiousness: 0.5
+    _extraversion: 0.5
+    _agreeableness: 0.5
+    _neuroticism: 0.5
+  _speechPatterns:
+    _formality: 0.5
+    _verbosity: 0.5
+    _politeness: 0.5
+    _humor: 0.3
+    _catchPhrases: []
+    _avoidedPhrases: []
+    _dialectDescription: 
+    _verbalTics: []
+    _favoriteTopics: []
+    _avoidedTopics: []
+  _backgroundInfo:
+    _profession: Merchant
+    _ageDescription: middle-aged
+    _physicalDescription: 
+    _backstory: 
+    _motivations: 
+    _fears: 
+    _expertiseAreas: []
+    _secrets: 
+    _allies: []
+    _rivals: []
+  _temperament: 0
+  _moodRecoveryRate: 0.1
+  _emotionalSensitivity: 1
+  _customInstructions: 

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1c840f0dad652649bb63d032a039bcf, type: 3}
+  m_Name: Demo_Config
+  m_EditorClassIdentifier: Assembly-CSharp::InteractiveNPC.NPC.Data.NPCConfiguration
+  _npcId: demo_guide
+  _displayName: Demo Guide
+  _title: Interactive NPC Demo Guide
+  _personalityData: {fileID: 11400000, guid: 23eae2a3ed39dd847867805cd58915a8, type: 2}
+  _memoryData: {fileID: 11400000, guid: 42622cdad69e85947af42b492fe359e7, type: 2}
+  _voiceSettings: {fileID: 0}
+  _portrait: {fileID: 0}
+  _themeColor: {r: 0.3, g: 0.5, b: 0.7, a: 1}
+  _interactionDistance: 3.5
+  _canBeInterrupted: 1
+  _responseDelay: 0.3
+  _worldContext: 
+  _timeOfDayBehavior: 0
+  _availableHours: {x: 8, y: 20}
+  _defaultGreeting: Welcome to the Interactive NPC demo! I'm your guide. What would
+    you like to ask about?
+  _alternativeGreetings: []
+  _returnGreeting: Ah, you're back! Good to see you again.
+  _defaultFarewell: Goodbye! Have fun testing.
+  _alternativeFarewells: []
