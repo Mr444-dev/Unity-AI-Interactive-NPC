@@ -5,6 +5,7 @@
 </p>
 
 <h1 align="center">🤖 Interactive NPC System for Unity</h1>
+
 **A Modular, AI-Driven Framework for Next-Generation NPCs**
 
 [![Unity Version](https://img.shields.io/badge/Unity-2021.3%2B-blue.svg)](https://unity3d.com/get-unity/download)
