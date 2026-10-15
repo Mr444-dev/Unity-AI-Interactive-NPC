@@ -1,6 +1,10 @@
 <div align="center">
 
-# 🤖 Interactive NPC System for Unity
+<p align="center">
+  <img src="docs/assets/portfolio-mark.svg" alt="🤖 Interactive NPC System for Unity logo" width="96" height="96">
+</p>
+
+<h1 align="center">🤖 Interactive NPC System for Unity</h1>
 **A Modular, AI-Driven Framework for Next-Generation NPCs**
 
 [![Unity Version](https://img.shields.io/badge/Unity-2021.3%2B-blue.svg)](https://unity3d.com/get-unity/download)
@@ -11,6 +15,10 @@
 The **Interactive NPC System** is a powerful, highly extensible framework designed to bring your Non-Player Characters to life. By integrating Large Language Models (LLMs), dynamic memory banks, personality traits, and Text-to-Speech (TTS), your NPCs can engage in natural, unscripted conversations that evolve based on player interactions.
 
 ---
+
+
+
+<p align="center"><a href="#key-features">✨ Key Features</a> &nbsp;·&nbsp; <a href="#quick-start-demo-scene">🚀 Quick Start (Demo Scene)</a> &nbsp;·&nbsp; <a href="#system-architecture">🏗️ System Architecture</a> &nbsp;·&nbsp; <a href="#creating-custom-npcs-manually">🔧 Creating Custom NPCs Manually</a></p>
 
 ## ✨ Key Features
 
